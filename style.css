@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+
+*{
+    font-family: "Tajawal", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+
+}
+
+
+header{
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    
+    
+    
+}
+
+.log a{
+   
+    width: 183px;
+    height: 30px;
+    top: 42px;
+    left: -3px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Tajawal;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    text-decoration: none;
+    color:#FFFFFF;
+
+    }
+    
+    .login{
+        
+        width: 150px;
+        height: 40px;
+        top: 33px;
+        left: 140px;
+        gap: 0px;
+        opacity: 0px;
+        background: linear-gradient(to right, #3B1541 45% ,#5a0e5a,#812781);
+        border-radius: 10px;
+        border: none;
+        text-decoration: none;
+        display: inline;
+        font-size: 20px;
+        font-weight: 400px;
+        color:#FFFFFF;
+        position: absolute;   
+        
+    }
+
+    .info a{
+    width: Hug (561px)px;
+    height: Hug (95px)px;
+    top: 42px;
+    left: 400px;
+    gap: 0px;
+    opacity: 0px;
+    padding: 15px ;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 20px;
+    align-items: center;
+    
+    }
+    
+    .logo{
+    width: 81px;
+    height: 65px;
+    top: 20px;
+    left: 1178px;
+    gap: 0px;
+    opacity: 0px;
+    
+    }
+
+.main{
+
+padding: 199px 319px;
+background-image: url('imges/background.png') ;
+background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+width: 1280px;
+height: 669;
+
+}
+
+.b1{
+text-align: center;
+margin-left: 50px;
+font-family: Tajawal;
+font-size: 96px;
+font-weight: 500;
+line-height: 115.2px;
+color: #FFFFFF;
+width: 642px;
+height: 378px;
+top: 199px;
+left: 319px;
+gap: 0px;
+opacity: 0px;
+
+}
+ .b2{
+display: inline-block;
+text-align: center;
+width: 684px;
+height: 136px;
+gap: 0px;
+opacity: 0px;
+font-family: Tajawal;
+font-size: 32px;
+font-weight: 400;
+line-height: 38.4px;
+color: #FFFFFF;
+
+
+}
+
+
+.main a{
+   
+padding:7px 55px ;
+border-radius: 7px;
+border: none;
+text-decoration: none;
+font-size: 18px;
+font-weight: bold;
+background: linear-gradient(to right, #3B1541 45% ,#641064);
+color:#FFFFFF;
+margin-left: 230px;
+margin-top: 0px;   
+width: 240px;
+height: 58px;
+top: 433px;
+left: 533px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.picture1{
+object-fit: cover;
+width: 1280px;
+height: 423px;
+top: 417px;
+gap: 0px;
+opacity: 0px;
+
+
+}
+
